@@ -17,7 +17,9 @@ Gain hands-on experience with APIs, AppSheet, and Looker
 
 Explore advanced AI and Generative AI (GenAI) solutions on Google Cloud
 
+
 Skill Badges 
+
 Sl. No	Skill Badge	Description
 1	The Basics of Google Cloud Compute	Introduction to Compute Engine, Cloud Shell, and resource management.
 2	Get Started with Cloud Storage	Learn object storage and bucket management for scalable data solutions.
